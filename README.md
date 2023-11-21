@@ -1,4 +1,21 @@
 <h1 align="center">Hi there! 👋 I'm MD. Nasir Ahamad</h1>
+<h3 align="center">Passionate MERN Stack Developer | Next.js | React | APIs | Node.js | Express.js | Open Source Enthusiast</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nasirahamad88&label=Profile%20views&color=0e75b6&style=flat" alt="nasirahamad88" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nasirdeveloper/" target="_blank" title="LinkedIn">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+</p>
+
+
+
+
+
+<h1 align="center">Hi there! 👋 I'm MD. Nasir Ahamad</h1>
 <h3 align="center">Passionate MERN Stack Developer | Next.js | React | APIs|Tailwind CSS | Node.js | Express.js | Open Source Enthusiast| Bootstrap| Seeking Remote Internship</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nasirahamad88&label=Profile%20views&color=0e75b6&style=flat" alt="nasirahamad88" /> </p>
